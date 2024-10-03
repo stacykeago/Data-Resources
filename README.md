@@ -8,3 +8,7 @@
 8. Pew research [https://www.pewresearch.org/instructions-for-downloading-datasets/]
 9. African Information Highwway [https://www.afdb.org/en/knowledge/statistics/africa-information-highway-aih]
 10. Open data AWS [https://registry.opendata.aws/]
+11. Public datasets by topic [https://github.com/awesomedata/awesome-public-datasets]
+12. Open Database of corporate entities [https://datahub.io/collections/opencorporates]
+13. NASA Near Real-Time Data and Imagery [https://www.earthdata.nasa.gov/learn/find-data/near-real-time]
+14. Data hub [https://datahub.io/collections]
